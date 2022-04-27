@@ -6,7 +6,7 @@
   <img width="48%" src=https://github-readme-stats.vercel.app/api?username=LohanConrado&count_private=true&include_all_commits=true&show_icon=true&theme=darcula>
   <img width="48%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&langs_count=5&layout=compact&theme=darcula>
 </div>
-
+<br>
 <div style:"dispaly:inline_block">
 <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
