@@ -4,7 +4,7 @@
 <h1> Olá, seja bem-vindo ao meu perfil no Github! </h1>
 <div style:"display: inline_block">
   <img width="48%" height="180em"src=https://github-readme-stats.vercel.app/api?username=LohanConrado&count_private=true&include_all_commits=true&show_icon=true&theme=darcula>
-  <img width="48%" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&langs_count=5&layout=compact&theme=darcula>
+  <img width="48%" height="179.5em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&langs_count=5&layout=compact&theme=darcula>
 </div>
 <br>
 <div style:"dispaly:inline_block">
