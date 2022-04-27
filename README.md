@@ -21,8 +21,8 @@
 ## 
 
 <div display:inline_block>
-  <a align=center height="35em" href="https://www.instagram.com/lohanconrado98/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a align=center height="35em" href="https://www.linkedin.com/in/lohan-conrado-63380b1b7/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.instagram.com/lohanconrado98/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align=center height="35em">
+  <a href="https://www.linkedin.com/in/lohan-conrado-63380b1b7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align=center height="35em">
   
   ![Snake animation](https://github.com/LohanConrado/LohanConrado/blob/output/github-contribution-grid-snake.svg)
   
