@@ -19,7 +19,7 @@
   <img align:right height="50px" width="50px" src="https://cdn.discordapp.com/attachments/968922720035274783/968922880454828032/giphy.gif">
 </div>
 
-<img align:right height="50px" width="50px" src="https://cdn.discordapp.com/attachments/968922720035274783/968922880454828032/giphy.gif"> ## 
+## 
 
 <br>
 
