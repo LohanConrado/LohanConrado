@@ -16,6 +16,7 @@
   <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align:right height="50px" width="50px" src="https://cdn.discordapp.com/attachments/968922720035274783/968922880454828032/giphy.gif">
 </div>
 
 <img align:right height="50px" width="50px" src="https://cdn.discordapp.com/attachments/968922720035274783/968922880454828032/giphy.gif"> ## 
