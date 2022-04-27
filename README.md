@@ -6,7 +6,7 @@
 
 <div display:inline>
   <img width="48%" height="180em"src=https://github-readme-stats.vercel.app/api?username=LohanConrado&count_private=true&include_all_commits=true&show_icon=true&theme=darcula>
-  <img width="48%" height="170em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&langs_count=5&layout=compact&theme=darcula>
+  <img width="48%" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&langs_count=5&layout=compact&theme=darcula>
 </div>
 <br>
 <div style:"dispaly:inline_block">
