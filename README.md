@@ -18,7 +18,7 @@
   <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
 
-##  <img align:right height="50px" width="50px" src="https://cdn.discordapp.com/attachments/968922720035274783/968922880454828032/giphy.gif">
+<img align:right height="50px" width="50px" src="https://cdn.discordapp.com/attachments/968922720035274783/968922880454828032/giphy.gif"> ## 
 
 <br>
 
