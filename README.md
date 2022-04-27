@@ -10,8 +10,6 @@
   <img width="48%" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&hide_border=true&langs_count=16&layout=compact&theme=darcula>
 </div>
 
-<br>
-
 <div display:inline_block>
   <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align=center height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
