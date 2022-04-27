@@ -21,7 +21,7 @@
 ## 
 
 <div display:inline_block>
-  <img border-style:solid align=center height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img border:1px solid white; align=center height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <img border-style:solid align=center height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LohanConrado/LohanConrado/blob/output/github-contribution-grid-snake.svg)
 </div>
