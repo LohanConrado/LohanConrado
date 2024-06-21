@@ -10,10 +10,14 @@
   <img height-"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<div style="display: flex;">
-  <img align="center" src="html5.png" height="50em" style="margin-right: 200em;">
-  <img align="center" src="css-3.png" height="50em" style="margin-right: 10em;">
-  <img align="center" src="js.png" height="50em" style="margin-right: 10em;">
-  <img align="center" src="python.png" height="50em" style="margin-right: 10em;">
-  <img align="center" src="database.png" height="50em">
+<div>
+  <img src="html5.png" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="css-3.png" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="js.png" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="python.png" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="database.png" height="50em" style="display: inline-block;">
 </div>
