@@ -4,7 +4,6 @@
 📖 Estou atualmente estudando Python, mas tenho familiaridade com HTML, CSS e JavaScript e SQL.
 
 <div>
-  ‹a href-"https://beacons.ai/rafaballerin¡">
   <img height-"180em" src="https://github-readme-stats.vercel.app/api?username-LohanConrado&show_icons=true&themed=dracula&include_all_commits-true&count_private-true"/›
   <img height-"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-LohanConrado&layout-compact&langs_count-16&theme=dracula"/>
 </div>
