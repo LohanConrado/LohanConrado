@@ -1,9 +1,10 @@
-## Bem-vindo!👋
+## Prazer em conhece-lo! Me chamo Lohan 👋
 
 📖 Estou atualmente estudando Python, mas tenho familiaridade com HTML, CSS e JavaScript e SQL.
 
 👨‍💼 Procurando a primeira oportunidade no mercado de trabalho Tech
 
+<br>
 
 <div>
   <img height-"180em" src="https://github-readme-stats.vercel.app/api?username=LohanConrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private-true"/>
