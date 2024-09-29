@@ -14,9 +14,9 @@ Desenvolvimento Web: HTML, CSS, JavaScript
 Java (com padrão MVC)
 <br>
 Python
-
+<br>
 Versionamento de Código: Git
-
+<br>
 Banco de Dados: SQL
 
 Em progresso:
