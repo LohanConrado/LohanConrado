@@ -1,9 +1,9 @@
 ## Olá! Sou Lohan, estudante de Sistemas de Informação na UniLaSalle Niterói, atualmente cursando o 4º período.
 
 Minha paixão por tecnologia começou cedo, sempre buscando novas formas de aprender e me atualizar em frente ao computador. Essa curiosidade e desejo de criar algo significativo me levaram a escolher Sistemas de Informação, onde estou focado em desenvolver aplicações que impactem a vida das pessoas e me tragam orgulho por ter contribuído.
-<br>
+<br><br>
 Estou à procura de oportunidades de estágio onde possa aplicar meus conhecimentos e continuar a aprender. Estou disponível para o mercado de trabalho e ansioso para contribuir com projetos que façam a diferença.
-<br>
+<br><br>
 Estou especialmente interessado em Front-End Web e Mobile, e busco constantemente expandir meus conhecimentos nessas áreas.
 <br>
 <br>
