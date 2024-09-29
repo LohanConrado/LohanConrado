@@ -1,8 +1,26 @@
-## Prazer em conhece-lo! Me chamo Lohan 👋
+## Olá! Sou Lohan, estudante de Sistemas de Informação na UniLaSalle Niterói, atualmente cursando o 4º período.
 
-📖 Estou atualmente estudando Python, mas tenho familiaridade com HTML, CSS e JavaScript e SQL.
+Minha paixão por tecnologia começou cedo, sempre buscando novas formas de aprender e me atualizar em frente ao computador. Essa curiosidade e desejo de criar algo significativo me levaram a escolher Sistemas de Informação, onde estou focado em desenvolver aplicações que impactem a vida das pessoas e me tragam orgulho por ter contribuído.
+<br>
+Estou à procura de oportunidades de estágio onde possa aplicar meus conhecimentos e continuar a aprender. Estou disponível para o mercado de trabalho e ansioso para contribuir com projetos que façam a diferença.
+<br>
+Estou especialmente interessado em Front-End Web e Mobile, e busco constantemente expandir meus conhecimentos nessas áreas.
+<br>
+<br>
+Habilidades:
+<br>
+Desenvolvimento Web: HTML, CSS, JavaScript
+<br>
+Java (com padrão MVC)
+<br>
+Python
 
-👨‍💼 Procurando a primeira oportunidade no mercado de trabalho Tech
+Versionamento de Código: Git
+
+Banco de Dados: SQL
+
+Em progresso:
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Web com foco em iniciar meus estudos em React. Também tenho interesse em explorar React Native para desenvolvimento mobile.
 
 <br>
 
