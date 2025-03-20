@@ -24,17 +24,17 @@ Atualmente, estou aprofundando meus conhecimentos em Python para o back-end e em
 <br><br>
 ### Minhas principais tecnologias:
 <div>
-  <img src="react.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <img src="react.svg" height="50em" style="display: inline-block;"> &nbsp;&nbsp;
   <span style="display: inline-block; width: 10px;"></span>
-  <img src="typescript.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <img src="typescript.svg" height="50em" style="display: inline-block;">&nbsp;&nbsp;
   <span style="display: inline-block; width: 10px;"></span>
-  <img src="tailwindcss.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <img src="tailwindcss.svg" height="50em" style="display: inline-block;">&nbsp;&nbsp;
   <span style="display: inline-block; width: 10px;"></span>
-  <img src="python.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <img src="python.svg" height="50em" style="display: inline-block;">&nbsp;&nbsp;
   <span style="display: inline-block; width: 10px;"></span>
-  <img src="fastapi.svg" height="50em" style="display: inline-block;">
+  <img src="fastapi.svg" height="50em" style="display: inline-block;">&nbsp;&nbsp;
   <span style="display: inline-block; width: 10px;"></span>
-  <img src="github.svg" height="50em" style="display: inline-block;">
+  <img src="github.svg" height="50em" style="display: inline-block;">&nbsp;&nbsp;
   <span style="display: inline-block; width: 10px;"></span>
   <img src="gitforwindows.svg" height="50em" style="display: inline-block;">
   <span style="display: inline-block; width: 10px;"></span>
