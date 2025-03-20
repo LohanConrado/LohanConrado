@@ -21,21 +21,28 @@ Habilidades:
 <br><br>
 📓✍️Em progresso:
 Atualmente, estou aprofundando meus conhecimentos em Python para o back-end e em React Native para desenvolvimento mobile.
+<br><br>
+Minhas principais tecnologias:
+<div>
+  <img src="react.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="typescript.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="tailwindcss.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="python.svg" height="50em" style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="fastapi.svg" height="50em" style="display: inline-block;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="github.svg" height="50em" style="display: inline-block;">
+  <span style="display: inline-block; width: 10px;"></span>
+  <img src="gitforwindows.svg" height="50em" style="display: inline-block;">
+  <span style="display: inline-block; width: 10px;"></span>
+</div>
 <br>
-
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LohanConrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanConrado&layout=compact&langs_count=16&theme=tokyonight&count_private=true"/>
 </div>
 
-<div>
-  <img src="html5.png" height="50em" style="display: inline-block; margin-right: 10px;">
-  <span style="display: inline-block; width: 10px;"></span>
-  <img src="css-3.png" height="50em" style="display: inline-block; margin-right: 10px;">
-  <span style="display: inline-block; width: 10px;"></span>
-  <img src="js.png" height="50em" style="display: inline-block; margin-right: 10px;">
-  <span style="display: inline-block; width: 10px;"></span>
-  <img src="python.png" height="50em" style="display: inline-block; margin-right: 10px;">
-  <span style="display: inline-block; width: 10px;"></span>
-  <img src="database.png" height="50em" style="display: inline-block;">
-</div>
+
