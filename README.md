@@ -4,7 +4,7 @@
 
 Minha paixão por tecnologia começou cedo, sempre buscando novas formas de aprender e me atualizar em frente ao computador. Essa curiosidade e desejo de criar algo significativo me levaram a escolher Sistemas de Informação, onde estou focado em desenvolver aplicações que impactem a vida das pessoas e me tragam orgulho por ter contribuído.
 <br><br>
-Estou especialmente interessado em Front-End Web e Mobile, e busco constantemente expandir meus conhecimentos nessas áreas.
+Estou especialmente interessado em me tornar desenvolvedor Full-Stack Cross-Plataform, e busco constantemente expandir meus conhecimentos para atingir esse objetivo.
 <br>
 <br>
 Habilidades:
@@ -20,7 +20,7 @@ Habilidades:
 ⚙️Banco de Dados: Postgres, MySQL e SQLite
 <br><br>
 📓✍️Em progresso:
-Atualmente, estou aprofundando meus conhecimentos em Python para o back-end e em React Native para desenvolvimento mobile.
+Atualmente, estou aprofundando meus conhecimentos em Python para o back-end e em React Native para desenvolvimento cross-plataform.
 <br><br>
 Minhas principais tecnologias:
 <div>
