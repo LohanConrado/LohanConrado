@@ -22,7 +22,7 @@ Habilidades:
 📓✍️Em progresso:
 Atualmente, estou aprofundando meus conhecimentos em Python para o back-end e em React Native para desenvolvimento cross-plataform.
 <br><br>
-Minhas principais tecnologias:
+### Minhas principais tecnologias:
 <div>
   <img src="react.svg" height="50em" style="display: inline-block; margin-right: 10px;">
   <span style="display: inline-block; width: 10px;"></span>
