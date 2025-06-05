@@ -39,6 +39,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end co
 ## Minhas atividades:
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div>
   <img height="150em" src="https://github-readme-stats-alpha-ten-34.vercel.app/api?username=LohanConrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
