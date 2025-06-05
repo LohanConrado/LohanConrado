@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo(a) 👋
+## 👋Olá! Seja bem-vindo(a) 
 
 Sou Lohan, estudante de Sistemas de Informação na UniLaSalle Niterói (5º período), com experiência prática em desenvolvimento Front-End Mobile, utilizando React Native, TypeScript, Expo e Redux Toolkit.
 <br><br>
