@@ -2,8 +2,6 @@
 
 Sou Lohan, estudante de Sistemas de Informação na UniLaSalle Niterói (5º período), com experiência prática em desenvolvimento Front-End Mobile, utilizando React Native, TypeScript, Expo e Redux Toolkit.
 <br><br>
-Desde cedo, sou movido pela curiosidade e pela vontade de transformar ideias em soluções reais através da tecnologia. Ao longo da minha trajetória acadêmica e profissional, tenho focado em criar aplicações eficientes e intuitivas, com impacto positivo para as pessoas e as organizações.
-<br><br>
 Atualmente, atuo como Desenvolvedor Mobile Front-End na INFFEL, onde participo do desenvolvimento de aplicações internas e de novos produtos com React Native, além de contribuir na manutenção e criação de APIs REST e automação de processos com Python.
 <br><br>
 Meu objetivo é me tornar um Desenvolvedor Full-Stack Cross-Platform, e sigo me aprofundando nas melhores práticas de desenvolvimento de software, arquitetura de componentes, integração com APIs e experiência do usuário (UI/UX). Além disso, estou familiarizado com o processo Scrum, participando de cerimônias ágeis e colaborando em equipes multidisciplinares.
