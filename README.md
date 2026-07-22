@@ -37,6 +37,11 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end co
 ## Minhas atividades:
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.0](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.0.0) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+2. ❌ Merged PR [#2](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+3. 💪 Opened PR [#2](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+4. ❌ Merged PR [#1](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+5. 💪 Opened PR [#1](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
 <!--END_SECTION:activity-->
 
 <div>
