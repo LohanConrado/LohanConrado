@@ -37,11 +37,11 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end co
 ## Minhas atividades:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.2](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.1.2) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
-2. 🚀 Published release [v1.1.1](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.1.1) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
-3. 🚀 Published release [v1.1.0](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.1.0) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
-4. 🚀 Published release [v1.0.0](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.0.0) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
-5. ❌ Merged PR [#2](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+1. ❌ Merged PR [#10](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+2. 💪 Opened PR [#10](undefined) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+3. 🚀 Published release [v1.1.2](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.1.2) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+4. 🚀 Published release [v1.1.1](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.1.1) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
+5. 🚀 Published release [v1.1.0](https://github.com/LohanConrado/project.ci.api/releases/tag/v1.1.0) in [LohanConrado/project.ci.api](https://github.com/LohanConrado/project.ci.api)
 <!--END_SECTION:activity-->
 
 <div>
